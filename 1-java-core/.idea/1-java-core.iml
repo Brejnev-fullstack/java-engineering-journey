@@ -7,6 +7,7 @@
       <sourceFolder url="file://$MODULE_DIR$/19-records/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/2-types/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/20-sealed-classes/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/21-pattern-matching/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/3-control-flow/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/4-methods/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/5-oop/src" isTestSource="false" />
